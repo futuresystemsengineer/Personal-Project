@@ -1,0 +1,5 @@
+# Pregunta por la temperatura
+celsius = float(input("Insert a temperature in Celsius to convert it to Farenheit "))
+
+farenheit = (celsius * 9 / 5) + 32
+print(f"{celsius} °C equivalen a {farenheit} °F")
