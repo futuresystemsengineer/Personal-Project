@@ -1,2 +1,2 @@
 # Personal-Project
-Hi, this is my joruney learning Python.
+Hi, this is my journey learning Python.
