@@ -1,0 +1,11 @@
+# Carpetas de caché de Python en cualquier nivel
+**/__pycache__/
+__pycache__/
+
+# Archivos compilados de Python
+*.pyc
+*.pyo
+
+# Archivos de configuración de VS Code / Workspace
+*.code-workspace
+.vscode/
